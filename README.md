@@ -14,7 +14,7 @@ A powerful cross-platform terminal emulator with built-in network management cap
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/buildwithhusnain/termOS.git
 cd termos
 ```
 
